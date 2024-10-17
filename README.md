@@ -1,3 +1,28 @@
+# BurnIt-Planner
+
+BurnIt Planner is a fitness task management app that helps you organize your workout schedule, set reminders, and prioritize tasks based on a unique calorie-based reward system. Built using React for the front end and Node.js for the back end, BurnIt Planner offers a seamless, user-friendly experience for tracking fitness goals and progress.
+
+# Features
+•	Workout Scheduling: Plan and schedule your workouts with ease.
+•	Reminders: Set reminders to stay on track with your fitness routine.
+•	Task Prioritization: Assign priorities based on calorie burn for each exercise.
+•	Calorie-Based Reward System: The higher the calorie burn, the greater the reward, helping you stay motivated.
+•	Task Management: Easily track, organize, and manage your tasks and fitness goals.
+
+# Technology Stack
+•	Frontend: React, JavaScript, HTML5, CSS3
+•	Backend: Node.js, Express
+•	Database: MongoDB (or any DB of your choice)
+•	Others: Axios, REST APIs, JWT for user authentication
+
+# Getting Started
+
+# Prerequisites
+Ensure that you have the following installed:
+•	Node.js (v14 or higher)
+•	npm (v6 or higher)
+•	MongoDB (if using MongoDB for your database)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
